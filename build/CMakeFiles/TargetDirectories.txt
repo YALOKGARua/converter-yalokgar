@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/converter/build/CMakeFiles/converter.dir
+C:/Users/User/Desktop/converter/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/converter/build/CMakeFiles/rebuild_cache.dir
